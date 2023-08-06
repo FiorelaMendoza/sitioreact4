@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FiorelaMendoza/sitioreact4.git/static/css/main.14122f37.css",
+    "main.js": "/FiorelaMendoza/sitioreact4.git/static/js/main.fa140250.js",
+    "static/js/787.856a2c82.chunk.js": "/FiorelaMendoza/sitioreact4.git/static/js/787.856a2c82.chunk.js",
+    "index.html": "/FiorelaMendoza/sitioreact4.git/index.html",
+    "main.14122f37.css.map": "/FiorelaMendoza/sitioreact4.git/static/css/main.14122f37.css.map",
+    "main.fa140250.js.map": "/FiorelaMendoza/sitioreact4.git/static/js/main.fa140250.js.map",
+    "787.856a2c82.chunk.js.map": "/FiorelaMendoza/sitioreact4.git/static/js/787.856a2c82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14122f37.css",
+    "static/js/main.fa140250.js"
+  ]
+}
